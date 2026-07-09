@@ -11,12 +11,6 @@ My tech stack is still growing: Go, and I'm just getting started with databases.
 🎯 Current Goal
 
 Landing my first job as a backend developer — that's what I'm working toward every day.
-
-Fun Facts
-
-
-🚀 Just starting my backend journey
-🔧 Building my first real project: a database for an auto service
 💼 Actively working toward my first dev job
 <!--
 **arkon03/arkon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
